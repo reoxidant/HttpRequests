@@ -16,3 +16,8 @@ You need to display the images that are available via a link in the API (this li
 2) The pagination to upload more is optional, but would be a plus.
 3) The size of the pictures is not important, but it must be possible to scroll the result (don't make the pictures very small and try to fit in 1 screen).
 4) There are no other special requirements for the application. If there is any question about the implementation, just do the simplest version.
+
+- ### Main screen
+
+<img src="https://github.com/reoxidant/HttpRequests/blob/main/Screenshots/main-screen.png" width=400/> 
+
